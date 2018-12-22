@@ -1,0 +1,17 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+#searchq{
+    padding: 10px;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 3px;
+
+}
+
+
+#fullform{
+    
+    margin-top: 20px;
+}
