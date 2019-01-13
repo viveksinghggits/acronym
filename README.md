@@ -8,3 +8,4 @@ Anyone can make entries to the DB.json file and use this app as their own. So, l
 # TODO
 1. Make UI more attractice
 2. Responsiveness
+3. Custom Domain Name for the web application
