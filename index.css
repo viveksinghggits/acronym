@@ -1,6 +1,12 @@
 *{
     font-family: 'Open Sans', sans-serif;
-    font-weight: bold;
+}
+body{
+    margin: 0px;
+}
+#wrapper{
+    width: 400px;
+    margin: auto;
 }
 #searchq{
     padding: 10px;
@@ -9,9 +15,23 @@
     border-radius: 3px;
 
 }
-
-
+#header{
+    background-image: url("wavy-dots.png");
+    padding: 10px;
+}
 #fullform{
-    
+    height: 50px;
+    text-align: center;
+}
+#inputwrapper{
+    margin: auto;
     margin-top: 20px;
+    width: 198px;
+}
+#fullform{   
+    margin-top: 20px;
+}
+#footer{
+    height: 50px;
+    background-image: url("wavy-dots.png");   
 }
